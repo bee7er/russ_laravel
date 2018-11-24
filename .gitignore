@@ -1,0 +1,6 @@
+/.idea
+/.DS*
+.env
+.env_live
+
+

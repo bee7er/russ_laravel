@@ -1,0 +1,5 @@
+#redirected via control panel#
+RewriteEngine On
+RewriteRule ^(.*)$ http://squaresquare.tv [R=301,L]
+#http://squaresquare.tv#
+AddType x-httpd-php56 .php
